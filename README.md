@@ -47,7 +47,7 @@ As a dedicated 3rd-year Information Technology student, I firmly believe in the 
 
 
 ## 🌐 Socials:
-![LinkedIn](https://www.linkedin.com/in/vamsi-krishna-76857223b/) 
+![LinkedIn](https://github.com/Priyachaturvedi01)) 
 
 ## 🛠️ Tech Stack  
 - Frontend: HTML, CSS, JavaScript  
